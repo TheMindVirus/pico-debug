@@ -1,0 +1,4 @@
+target remote pizero.local:3333
+load
+monitor reset init
+continue
